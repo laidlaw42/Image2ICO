@@ -1,2 +1,2 @@
-# Image2ICO
-Converts PNG and JPEG to ICO format
+# Convert to ICO
+Janky GUI script to convert PNG and JPEG images to ICO format.
